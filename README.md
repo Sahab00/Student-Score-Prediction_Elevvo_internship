@@ -39,8 +39,10 @@ A machine learning project focused on predicting students' exam scores based on 
 - Trained using **Linear Regression**
 
 ### 4. Model Evaluation
-- Performance metrics: **MAE**, **MSE**, and **RMSE**
+- Performance metrics: **MSE**
 - Scatter plots to visualize predicted vs actual exam scores
+
+<img width="400" height="316" alt="image" src="https://github.com/user-attachments/assets/20519922-fb4d-4a39-881f-2a896bf50910" />
 
 ---
 
